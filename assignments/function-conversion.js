@@ -1,5 +1,5 @@
 // Take the commented ES5 syntax and convert it to ES6 arrow Syntax
-console.log('========= function-conversion =========');
+console.log("========= function-conversion =========");
 
 // let myFunction = function () {
 // console.log("Function was invoked!");
